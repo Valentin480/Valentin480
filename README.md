@@ -12,7 +12,7 @@ Je m'appelle Valentin. Je fais des jeux sur Roblox, en Lua, et je vibe code le r
 
 J'ai aussi mon site web : [valentinstark.com](https://valentinstark.com)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=110&section=header&text=Stack%20%26%20outils&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=42" width="100%" alt="Stack et outils"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=110&section=header&text=Mes%20outils&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=42" width="100%" alt="Stack et outils"/>
 
 <div align="center">
 
