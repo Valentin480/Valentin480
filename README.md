@@ -8,9 +8,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=110&section=header&text=À%20propos&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=42" width="100%" alt="À propos"/>
 
-Je m'appelle Valentin. Je fais des jeux sur Roblox, en Lua, et je vibe code le reste : je décris ce que je veux, j'itère et j'avance vite.
+Je m'appelle Valentin. Je fais des jeux sur Roblox avec les outils de roblox (map, modède 3d, Batiments, annimation etc...) et je vibe code le reste 😀.
 
-J'ai aussi mon site web : [valentinstark.com](https://valentinstark.com)
+J'ai aussi mon site web : [valentinstark.com](https://valentinstark.com) je sort une nouvelle version majeur par ans sauf cette la version 2026 car je n'ai pas pu payer le nom de domaine temporairement 😅.
+
+je vibe code également des plugins, des extensions chromes, des jeux mobile (android) etc... je les metterai peut etre en open source bientôt.
+
+Mes passions sont l'électronique genre l'esp32 etc..., les développement d'app web et de jeux vidéo, la modélisation (parfois) plutôt cao debutant et blender 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=110&section=header&text=Mes%20outils&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=42" width="100%" alt="Stack et outils"/>
 
