@@ -16,6 +16,7 @@ je vibe code également des plugins, des extensions chromes, des jeux mobile (an
 
 Mes passions sont l'électronique genre l'esp32 etc..., les développement d'app web et de jeux vidéo, la modélisation (parfois) plutôt cao debutant et blender 
 
+Pour certains, créer avec l'IA n'est pas vraiment du développement (si on delegue l'entierter du code a l'ia). Personnellement, j'utilise le vibe coding pour beaucoup de mes projets, mais pas pour les faire entierement. Certaines choses, comme des illustrations ou des interfaces, sont réalisées par moi-même sur Figma. Je mélange simplement mon travail et l'IA. Oui je pourrait apprendre à coder mais flemme et je sais quand meme un peu coder je comprend le code partiellement le code génerer par ia c'est surtout pour gagner du temps.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=110&section=header&text=Mes%20outils&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=42" width="100%" alt="Stack et outils"/>
 
 <div align="center">
